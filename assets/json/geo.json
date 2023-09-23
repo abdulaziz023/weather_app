@@ -1,0 +1,39 @@
+{
+  "ip": "178.218.201.17",
+  "continent_code": "AS",
+  "continent_name": "Asia",
+  "country_code2": "UZ",
+  "country_code3": "UZB",
+  "country_name": "Uzbekistan",
+  "country_capital": "Tashkent",
+  "state_prov": "Tashkent Region",
+  "state_code": "UZ-TO",
+  "district": "",
+  "city": "Tashkent",
+  "zipcode": "100000",
+  "latitude": "41.31108",
+  "longitude": "69.24056",
+  "is_eu": false,
+  "calling_code": "+998",
+  "country_tld": ".uz",
+  "languages": "uz,ru,tg",
+  "country_flag": "https://ipgeolocation.io/static/flags/uz_64.png",
+  "geoname_id": "1513066",
+  "isp": "Turon Media XK",
+  "connection_type": "",
+  "organization": "Turon Media XK",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Sum",
+    "symbol": "лв"
+  },
+  "time_zone": {
+    "name": "Asia/Tashkent",
+    "offset": 5,
+    "offset_with_dst": 5,
+    "current_time": "2023-09-19 18:22:11.757+0500",
+    "current_time_unix": 1695129731.757,
+    "is_dst": false,
+    "dst_savings": 0
+  }
+}
